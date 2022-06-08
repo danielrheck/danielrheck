@@ -1,10 +1,6 @@
 ### Hey there, I'm Daniel, a Full Stack Developer based in Berlin. I like coding, music, photography and cooking.
 
-<br>
-
 ---
-
-<br>
 
 #### I'm currently working on some side projects, including:
 
