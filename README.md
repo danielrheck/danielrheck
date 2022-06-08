@@ -23,9 +23,9 @@ For the social media project, I used **React**. The state management on this one
 <br>
 My plans for the near future are:
 
--   Keep learning;
--   Be part of a company where I can grow as a professional and as a person;
--   Colaborate in open source projects;
+-   Keep learning; ✍️
+-   Be part of a company where I can grow as a professional and as a person; 🧑‍💼
+-   Colaborate in open source projects; 🙏
 -   Once again, keep learning!
 
 <br>
@@ -57,4 +57,4 @@ My plans for the near future are:
 
 <br>
 
-### Feel free to check my [_LinkedIn_](https://www.linkedin.com/in/daniel-heck-berlin/) and get in touch with me. See you. 😃
+### Feel free to check my [_LinkedIn_](https://www.linkedin.com/in/daniel-heck-berlin/) and get in touch. See you. 😃
